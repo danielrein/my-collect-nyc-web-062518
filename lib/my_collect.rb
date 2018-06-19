@@ -6,4 +6,5 @@ def my_collect(array)
     newArray.push(array[counter])
     counter += 1
   end
+  newArray
 end
